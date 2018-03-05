@@ -1,4 +1,4 @@
-## Description
+# Monte Carlo Simulations
 
 Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. They can be used to understand the impact of risk and uncertainty in prediction and forecasting models.
 
@@ -45,3 +45,7 @@ These sort of build onto each other (in this order)
 * <b>RollDiceTrials.py</b>
   * performs the entire RollDice function a specified number of times
     * Eg. Do RollDice.py 1,000,000 times (START WITH A 10!!)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
